@@ -5,6 +5,11 @@
 - This is a portfolio of my ongoing and completed data science projects. The table also shows my technical skills and tools used for the projects.
 - The portfolio contains links to current projects in my portfolio and shows my hands-on experience on different areas in Data Science and Machine Learning.
 
+# Technology stack
+Languages: Python, PostgreSQL, Microsoft SQL Server, R.
+Machine Learning: Regression, Classification, Clustering, Logistic Regression, Random Forest, SVM, NLP, Neural Networks, Time Series Analysis, Computer Vision, Deep Learning.
+Tools: NumPy, Pandas, SciPy, Scikit-learn, TensorFlow, Keras, Spark, Matplotlib, Seaborn, Plotly, PyTorch, XGBoost, CatBoost, AdaBoost.
+
 | No. |    Hands-on Experience |            Title                 |        Project       | Technical skills       |  Completed   |
 |---- |   -------------------- |   ------------------------------ |     -------------   |--------------- |  ---------   |
 |1    |   Data Preprocessing   |     Credit Rating Analytics          | [Analyzing borrowers’ risk of defaulting](https://github.com/chuksoo/credit_rating_analytics/blob/main/credit_rating_analytics.ipynb)           | Python, NLTK, WordNetLemmatizer, SnowballStemmer, Seaborn, Matplotlib |       &#9745; |
