@@ -9,6 +9,7 @@
 - **Languages**: Python, PostgreSQL, Microsoft SQL Server, R.
 - **Machine Learning**: Regression, Classification, Clustering, Logistic Regression, Random Forest, SVM, NLP, Neural Networks, Time Series Analysis, Computer Vision, Deep Learning.
 - **Tools**: NumPy, Pandas, SciPy, Scikit-learn, TensorFlow, Keras, Spark, Matplotlib, Seaborn, Plotly, PyTorch, XGBoost, CatBoost, AdaBoost.
+- **Frameworks**: 
 
 | No. |    Hands-on Experience |            Title                 |        Project       | Technical skills       |  Completed   |
 |---- |   -------------------- |   ------------------------------ |     -------------   |--------------- |  ---------   |
